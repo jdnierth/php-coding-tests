@@ -1,1 +1,1 @@
-Test done on hackerrank by Shafaet
+Test on hackerrank by Shafaet
